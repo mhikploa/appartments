@@ -1,0 +1,109 @@
+- [Brand New 2 Bedroom Apartment](https://www.airbnb.com/rooms/805122115533894992?adults=3&check_in=2023-06-18&check_out=2023-06-24&federated_search_id=2bbaab08-2f97-4c1d-83c1-1d73789069cb&source_impression_id=p3_1679637293_a3%2BBAjBd2YBsN46y)
+	- Плюсы
+		- Внешний вид очень хороший
+		- Точно есть 3 кровати. Выглядят удобными.
+		- Довольно близко и к морю и к центру
+		- Балкончик
+		- Хост 4 года на сайте, отзывы на его объекты хорошие
+		- Кухня и Wi-Fi
+	- Минусы
+		- Сама квартира новая и отзывов нет
+- [Shorena's Sweet Apartment](https://www.airbnb.com/rooms/50458626?adults=3&check_in=2023-06-18&check_out=2023-06-24&federated_search_id=2bbaab08-2f97-4c1d-83c1-1d73789069cb&source_impression_id=p3_1679636936_J3D%2FEbyt59DqoK28)
+	- Плюсы
+		- Мне по виду очень нравится
+		- 2 кровати, отдельные комнаты, есть на фотках
+		- Близко и от центра и от моря
+		- Отзывы очень хорошие
+		- Миленький балкон
+		- Ванна есть. Я-то уже год ванны не видел)
+		- Кухня и Wi-Fi.
+		- Хозяйка супер-давно на сайте. 8 лет.
+	- Минусы
+		- Дороже остальных, но не критично. 420 баксов.
+- [Ann,s apartment 2](https://www.airbnb.com/rooms/600420471254796475?adults=3&check_in=2023-06-18&check_out=2023-06-24&federated_search_id=2bbaab08-2f97-4c1d-83c1-1d73789069cb&source_impression_id=p3_1679636186_%2FMxMCcKICAMSLrel)
+	- Плюсы
+		- Близко не только к морю, но и к центру (можно походить по ресторанам)
+		- 2 кровати в отдельных комнатах
+		- Сама квартира миленькая
+		- Отзывы идеальные
+		- Кухня, Wi-fi
+		- 280 баксов
+	- Минусы
+		- Я не вижу
+- [hotel Vaxx](https://www.booking.com/hotel/ge/vax-batumi.ru.html?aid=373448&label=tbilisi-roWXz09FJqDdk7Ihu1xuwQS390131266933%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342138470%3Akwd-391071506767%3Alp1001493%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YYzu_e_JczYpU2D6cikZ3xY&sid=4d2ded6b8169193eb52310685010e568&all_sr_blocks=738083803_328259810_2_2_0%2C738083803_328259810_2_2_0;checkin=2023-06-16;checkout=2023-06-23;dest_id=900049585;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=4;highlighted_blocks=738083803_328259810_2_2_0%2C738083803_328259810_2_2_0;hpos=4;matching_block_id=738083803_328259810_2_2_0;nflt=pri%3D2%3Btdb%3D2%3Bht_beach%3D1%3Bdistance%3D1000%3Bdistance%3D3000;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=price;sr_pri_blocks=738083803_328259810_2_2_0__69300%2C738083803_328259810_2_2_0__69300;srepoch=1679573656;srpvid=fd5a4a605d0001cc;type=total;ucfs=1&#hotelTmpl)
+	- Плюсы
+		- Близко как от моря, так и от центра
+		- 2 отдельных номера
+		- Кровати выглядят удобными и есть на фотках
+		- Гостиница, а не индивидуальный хозяин
+		- Довольно миленько
+		- Душ есть
+	- Минусы
+		- Цена 1386 (540) (но не критично дорого)
+		- Нет кухни
+- [Luxury Apartments](https://www.booking.com/hotel/ge/luxury-apartments.ru.html?aid=373448&label=tbilisi-roWXz09FJqDdk7Ihu1xuwQS390131266933%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342138470%3Akwd-391071506767%3Alp1001493%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YYzu_e_JczYpU2D6cikZ3xY&sid=4d2ded6b8169193eb52310685010e568&all_sr_blocks=276068601_330499320_0_0_0&checkin=2023-06-16&checkout=2023-06-23&dest_id=900049585&dest_type=city&dist=0&group_adults=3&group_children=0&hapos=12&highlighted_blocks=276068601_330499320_0_0_0&hpos=12&matching_block_id=276068601_330499320_0_0_0&nflt=tdb%3D2%3Bht_beach%3D1%3Bdistance%3D1000%3Bdistance%3D3000&no_rooms=1&req_adults=3&req_children=0&room1=A%2CA%2CA&sb_price_type=total&sr_order=price&sr_pri_blocks=276068601_330499320_0_0_0__154000&srepoch=1679573437&srpvid=fd5a4a605d0001cc&type=total&ucfs=1&activeTab=main)
+	- Плюсы
+		- Близко как от моря, так и от центра
+		- 3 спальных места, есть фотки
+		- Душ есть
+		- Кухня и Wi-Fi
+		- Отдельные комнаты
+	- Минусы
+		- Цена 1540 лари (600 долларов) (не критично дорого)
+		- Кому-то придётся спать на диване
+- [Hotel Park](https://www.booking.com/hotel/ge/park-batumi12.ru.html?aid=373448&label=tbilisi-roWXz09FJqDdk7Ihu1xuwQS390131266933%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342138470%3Akwd-391071506767%3Alp1001493%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YYzu_e_JczYpU2D6cikZ3xY&sid=4d2ded6b8169193eb52310685010e568&all_sr_blocks=342875001_181674276_3_1_0&checkin=2023-06-16&checkout=2023-06-23&dest_id=900049585&dest_type=city&dist=0&group_adults=3&group_children=0&hapos=6&highlighted_blocks=342875001_181674276_3_1_0&hpos=6&matching_block_id=342875001_181674276_3_1_0&nflt=pri%3D2%3Btdb%3D2%3Bht_beach%3D1%3Bdistance%3D1000%3Bdistance%3D3000&no_rooms=1&req_adults=3&req_children=0&room1=A%2CA%2CA&sb_price_type=total&sr_order=price&sr_pri_blocks=342875001_181674276_3_1_0__164500&srepoch=1679573656&srpvid=fd5a4a605d0001cc&type=total&ucfs=1&activeTab=main)
+	- Плюсы
+		- Гостиница, а не индивидуальный хозяин
+		- 3 кровати, по фоткам удобные
+		- Душ есть
+		- Миленько
+		- Близко и от центра и от моря
+		- Завтрак включён
+	- Минусы
+		- Нет отдельных комнат
+		- Цена 1645 (640 долларов) (всё ещё можно себе позволить)
+		- Комната маленькая
+- [Mimino Apartment Deluxe First Line (K VII)](https://www.booking.com/hotel/ge/mimino-apartment-deluxe-first-line-k-vii.ru.html?aid=376363&label=booking-name-L%2AXf2U1sq4%2AGEkIwcLOALQS540988882221%3Apl%3Ata%3Ap1%3Ap22%2C563%2C000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp1007469%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt1XFzPnqOODws&sid=81365ca3d91fc8080e9058d33baeb474&all_sr_blocks=578364401_335405922_1_0_0;checkin=2023-06-12;checkout=2023-06-18;dest_id=900049585;dest_type=city;dist=0;group_adults=1;group_children=0;hapos=14;highlighted_blocks=578364401_335405922_1_0_0;hpos=14;matching_block_id=578364401_335405922_1_0_0;nflt=distance%3D1000%3Bdistance%3D3000%3Bht_beach%3D1;no_rooms=1;req_adults=1;req_children=0;room1=A;sb_price_type=total;sr_order=price;sr_pri_blocks=578364401_335405922_1_0_0__56400;srepoch=1679596755;srpvid=dc248328a77c00fc;type=total;ucfs=1&)
+	- Плюсы
+		- Выглядит миленько
+		- 894 лари (348 баксов)
+		- По описанию есть все кровати
+		- Есть душ
+		- Отдельные комнаты
+		- Гостиница, а не индивидуальный хозяин
+	- Минусы
+		- Кому-то придётся спать на диване
+		- Нет отзывов
+		- Нет кухни
+- [Квартира у бульвара 1](https://www.booking.com/hotel/ge/apartamenti-mindia.ru.html?aid=373448&label=tbilisi-roWXz09FJqDdk7Ihu1xuwQS390131266933%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342138470%3Akwd-391071506767%3Alp1001493%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YYzu_e_JczYpU2D6cikZ3xY&sid=e42780679cb97bb817fd8f3012261908&all_sr_blocks=518458101_355866474_0_0_0;checkin=2023-06-12;checkout=2023-06-18;dest_id=900049585;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;highlighted_blocks=518458101_355866474_0_0_0;hpos=1;matching_block_id=518458101_355866474_0_0_0;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=518458101_355866474_0_0_0__96000;srepoch=1679639268;srpvid=994c2d712b1700e5;type=total;ucfs=1&#hotelTmpl)
+	- Плюсы
+		- Близко и от моря и от центра
+		- Кухня, Wi-Fi
+		- Точно есть 3 спальных места
+		- Хорошие отзывы
+		- 960 лари (372 бакса)
+	- Минусы
+		- Внешний вид не супер
+		- Одно из спальных мест -- диван
+- [Comfortable Flat near the beach](https://www.airbnb.com/rooms/50895541?adults=3&check_in=2023-06-18&check_out=2023-06-24&federated_search_id=2bbaab08-2f97-4c1d-83c1-1d73789069cb&source_impression_id=p3_1679635876_H%2FJYkantaHNMZJoA&translate_ugc=true)
+	- Плюсы
+		- Точно есть одна большая и 2 маленьких кровати
+		- Много отзывов (4,93), у хоста хорошая репутация
+		- Ванна есть. Я-то уже год ванны не видел)
+		- Очень близко от моря
+		- Отзывы
+		- Выглядит миленько
+	- Минусы
+		- Внешний вид проседает кое-где
+		- Далеко от центра
+- [Luxury apartment in BATUMI](https://www.airbnb.com/rooms/26098968?adults=3&check_in=2023-06-18&check_out=2023-06-24&federated_search_id=2bbaab08-2f97-4c1d-83c1-1d73789069cb&source_impression_id=p3_1679636455_7zeh5qF1hNtaTjsl)
+	- Плюсы
+		- 2 отдельных комнаты с кроватями
+		- Крутой балкой
+		- Отзывы идеальные
+		- Хозяин давно сдаёт (5 лет)
+		- Кухня, Wi-Fi
+		- Всё есть на фотках
+	- Минусы
+		- Чуть дороже остальных, но не принципиально. 384 $
+		- Кровати могут быть не очень удобными, по виду они немного старые
